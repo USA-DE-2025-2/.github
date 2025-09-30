@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <sub>© UPTC · Curso ML & IA — 2025-2</sub>
+  <sub>© USA · Curso Desarrollo Económico — 2025-2</sub>
 </p>
