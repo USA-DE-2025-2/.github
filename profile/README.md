@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="./assets/log_uptc_acred_neg.png" alt="UPTC ML-IA" width="240">
+  <img src="./assets/PRIME_final-01.png" alt="USA_logo" width="240">
 </p>
 
 <h2 align="center">Desarrollo Económico</h2>
